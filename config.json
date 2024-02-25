@@ -1,0 +1,22 @@
+{
+  "budget": 1010,
+  "start_gameday": 110,
+  "end_gameday": 113,
+  "transfers": 2,
+  "initial_squad": [
+    "Giannis Antetokounmpo",
+    "Luka Doncic",
+    "Toumani Camara",
+    "Shai Gilgeous-Alexander",
+    "Jalen Wilson",
+    "Marcus Sasser",
+    "Vince Williams Jr.",
+    "Payton Pritchard",
+    "Jalen Johnson",
+    "Anthony Davis"
+  ],
+  "player_points_adjustments": {
+    "Joel Embiid": 0.0,
+    "Ja Morant": 0.0
+  }
+}
